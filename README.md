@@ -49,7 +49,7 @@ Feel free to open a PR to add/update an entry in the registry!
 
 ### Address-bound Tokens
 
-**Implementation**: ERC1238
+**Implementation**: ERC1238 (early proposal)
 
 **Repo**: https://github.com/reasonedart/bulgari-gift-contract
 
@@ -107,17 +107,20 @@ Feel free to open a PR to add/update an entry in the registry!
 
 <br />
 
-## OrangeDAO
+## Orange DAO
 
 ### YC Gem
 
-**Implementation**:
+**Implementation**: ERC721
 
 **Repo**:
 
 **Details**: [https://badge.orangedao.xyz/](https://badge.orangedao.xyz/)
 
 **Deployments**:
+| Chain Id | Smart contract address |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| eip155:137 | [0xc1C6A331D4013f40Ca830C06eD47564D0d2b21cD](https://polygonscan.com/address/0xc1C6A331D4013f40Ca830C06eD47564D0d2b21cD) |
 
 <br />
 
