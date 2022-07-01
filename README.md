@@ -180,6 +180,20 @@ Feel free to open a PR to add/update an entry in the registry!
 
 <br />
 
+## Unlock Protocol
+
+### Unlock keys
+
+**Implementation**: ERC721 with custom logic to make keys transferrable or non-transferrable
+
+**Repo**: https://github.com/unlock-protocol/unlock
+
+**Details**: [https://docs.unlock-protocol.com/move-to-guides/how-to-make-keys-non-transferrable](https://docs.unlock-protocol.com/move-to-guides/how-to-make-keys-non-transferrable)
+
+**Deployments**:
+
+<br />
+
 ## Violet Protocol
 
 **More details coming soon.**
