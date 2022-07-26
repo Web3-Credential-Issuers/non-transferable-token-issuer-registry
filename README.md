@@ -1,4 +1,4 @@
-# Soulbound Token Issuer Registry
+# Non-transferable Token Issuer Registry
 
 This document references issuers that have launched Soulbound / Account-bound / non-transferable tokens, or have planned to do so in the future.
 
@@ -162,7 +162,17 @@ Feel free to open a PR to add/update an entry in the registry!
 
 ## Sismo
 
-**More details coming soon.**
+**Implementation**: ERC1155
+
+**Repo**: [https://github.com/sismo-core/sismo-protocol](https://github.com/sismo-core/sismo-protocol)
+
+**Details**: [https://docs.sismo.io/sismo-docs/sismo-protocol/badges](https://docs.sismo.io/sismo-docs/sismo-protocol/badges)
+
+**Deployments**:
+
+| Chain Id   | Smart contract address                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| eip155:137 | [0xF12494e3545D49616D9dFb78E5907E9078618a34](https://polygonscan.com/address/0xF12494e3545D49616D9dFb78E5907E9078618a34) |
 
 <br />
 
