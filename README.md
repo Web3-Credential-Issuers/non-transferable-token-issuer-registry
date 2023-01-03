@@ -198,7 +198,7 @@ Feel free to open a PR to add/update an entry in the registry!
 
 ### Verida Badges
 
-**Implementation**: Modified ERC-721
+**Implementation**: Modified ERC721 + ERC5192
 
 **Repo**: https://github.com/verida/blockchain-contracts
 
