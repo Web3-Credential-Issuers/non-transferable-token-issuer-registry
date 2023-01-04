@@ -204,6 +204,18 @@ Feel free to open a PR to add/update an entry in the registry!
 
 <br />
 
+## Verida Protocol
+
+### Verida Badges
+
+**Implementation**: ERC721 (including ERC721Metadata) and EIP-5192
+
+**Repo**: https://github.com/verida/blockchain-contracts
+
+**Details**: More details coming soon.
+
+**Deployments**: More details coming soon.
+
 ## Violet Protocol
 
 **More details coming soon.**
